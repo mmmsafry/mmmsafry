@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @mmmsafry
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Angular 13 and Laravel latest 
-- 💞️ I’m looking to collaborate on git, Laravel & PHP
 - 📫 How to reach me https://github.com/mmmsafry
 
 <!---
